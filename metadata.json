@@ -1,0 +1,5 @@
+{
+  "name": "Infinite Tic Tac Toe",
+  "description": "A modern, high-performance infinite Tic Tac Toe game where players are limited to 3 moves each, featuring glassmorphism and neon aesthetics.",
+  "requestFramePermissions": []
+}
